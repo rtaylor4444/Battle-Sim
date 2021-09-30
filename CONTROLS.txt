@@ -1,0 +1,6 @@
+SHIFT/BACKSPACE - cancel button
+ENTER - confirm button
+ARROWS/WASD - chnage options or move skill desc window
+
+If you find any bugs or have any feedback email me at:
+cyanwarrior4@gmail.com

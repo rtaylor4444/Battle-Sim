@@ -1,0 +1,61 @@
+This game follows a combat triangle so generally:
+Attack beats Defense (Can negate armor and out damage defense)
+Defense beats Speed (deal rebound damage and easily tanks hits)
+Speed beats Attack (Can easily evade and strike back)
+
+There is a hidden armor stat in this game which is determined by base defense
+This is what allows skills to do 0 damage after the atk/def ratio.
+Blocking gives extra armor and certain skills can negate that effect:
+*Power Lunge (techincally no but usually has enough power to deal damage)
+*Piercing Blow
+*Fierce Assault
+
+Speed allows you to evade more hits
+When you graze that means you're only dealing a percent of your original damage.
+Strike Window determines whether you graze your opponent or not
+of course if you outpace your opponent your moves will always land
+*Ex: If you have 50 speed an opponent needs 25 speed to graze you; 24 misses
+     (Although armor will negate out that small amount of damage)
+*Better Ex: If you have 50 speed an opponent needs around 37-40 speed to deal OK damage
+These skills make it harder for your opponent to hit you:
+*Hasty Tackle (Increases speed not strike window but still makes it harder to hit)
+*Quick Fient
+*Swift Retaliate
+*Rapid Blitz
+
+There are what I like to call traps in this game which activate
+when your opponent lauches an attack.
+The two types of traps are reactive and preemptive traps:
+*Reactive Traps give the greatest defense but require the user to tank
+ the hit to deal rebound damage.
+*Preemptive Traps allow the user to attempt to strike before their opponent
+ provided they can tank the incoming hit; also doubles as a way to 'trade' damage
+
+All traps deal damage based on the defense stat:
+It is possible to use defense as a weapon in this game!
+*Counter Parry (Reactive)
+*Swift Retaliate (Reactive *must dodge hit instead of block)
+*Preemptive Press (Preemptive)
+*Keen Intercept (Preemptive)
+*Strong Garrison (Reactive)
+
+There are also two kinds of buffs in this game temporary buffs and stage modifiers.
+*Temporary Buffs are given to you depending what skill you use for that turn
+ (You can see these in skill description window)
+*Stage Modifiers are applied when using these skills during your turn
+ *Immense Strength
+ *Nimble Movement
+ *Acute Awareness
+ *Weaken Muscles (assuming skill works successfully)
+ *Impede Movement (assuming skill works successfully)
+ *Break Fortitude (assuming skill works successfully)
+*Stage Modifier formula (you can only +1 or -1 as of v1.1):
+ -4  -3  -2  -1   0    +1   +2   +3   +4
+ 50% 57% 66% 80% 100% 125% 150% 175% 200%
+
+Typically buffs/debuffs should be used to supplement your chosen skills
+since dealing with temporary buffs are more important.
+
+
+If you find any bugs or have any feedback email me at:
+cyanwarrior4@gmail.com
