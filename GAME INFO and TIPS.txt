@@ -28,8 +28,8 @@ when your opponent lauches an attack.
 The two types of traps are reactive and preemptive traps:
 *Reactive Traps give the greatest defense but require the user to tank
  the hit to deal rebound damage.
-*Preemptive Traps allow the user to attempt to strike before their opponent
- provided they can tank the incoming hit; also doubles as a way to 'trade' damage
+*Preemptive Traps allow the user to attempt to strike before their opponent; 
+also doubles as a way to 'trade' damage
 
 All traps deal damage based on the defense stat:
 It is possible to use defense as a weapon in this game!
