@@ -1,0 +1,23 @@
+4
+Base
+100 100 100 100
+0
+
+Attack
+100 130 100 100
+0
+
+Defense
+100 100 130 100
+0
+
+Speed
+100 100 100 130
+0
+
+Class Name
+base stats: hp atk def spd
+Number of skills that cant be used
+skill index
+skill index
+...
