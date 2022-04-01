@@ -1,0 +1,31 @@
+3
+3 Speed
+7
+18 Nimble Movement
+20 Impede Mobility
+13 Rapid Blitz
+9 Multi Strike
+7 Swift Retaliate
+5 Hasty Tackle
+4 Piercing Blow
+
+1 Attack
+7
+16 Immense Strength
+19 Fortitude Break
+11 Fierce Assault
+12 Passionate Fury
+9 Multi Strike
+5 Hasty Tackle
+4 Piercing Blow
+
+2 Defense
+7
+17 Acute Awareness
+21 Weaken Muscles
+14 Keen Intercept
+10 Preemptive Press
+8 Counter Parry
+7 Swift Retaliate
+4 Piercing Blow
+
