@@ -1,4 +1,4 @@
-22
+25
 Basic Attack
 0 100 2 1 0
 0 15 0
@@ -185,7 +185,7 @@ rebound damage for each attack blocked.
 Only the most defensive users can use.
 
 Immense Strength
-0 0 0 1 0
+3 0 0 1 0
 0 0 15
 0 & 0
 0 0 0 0
@@ -195,7 +195,7 @@ Immense Strength
 A low level buff move that boosts Attack.
 
 Acute Awareness
-1 0 0 1 0
+3 0 0 1 0
 0 0 15
 0 & 0
 0 0 0 0
@@ -205,7 +205,7 @@ Acute Awareness
 A low level buff move that boosts Defense.
 
 Nimble Movement
-2 0 0 1 0
+3 0 0 1 0
 0 0 15
 0 & 0
 0 0 0 0
@@ -215,7 +215,7 @@ Nimble Movement
 A low level buff move that boosts Speed.
 
 Fortitude Break
-0 0 2 1 0
+3 0 2 1 0
 0 0 15
 0 & 0
 0 0 0 0
@@ -226,7 +226,7 @@ A low level debuff move that lowers Defense.
 Can be applied to any melee skill.
 
 Impede Mobility
-2 0 2 1 0
+3 0 2 1 0
 0 0 15
 0 & 0
 0 0 0 0
@@ -237,7 +237,7 @@ A low level debuff move that lowers Speed.
 Can be applied to any melee skill.
 
 Weaken Muscles
-1 0 2 1 0
+3 0 2 1 0
 0 0 15
 0 & 0
 0 0 0 0
@@ -246,6 +246,39 @@ Weaken Muscles
 2
 A low level debuff move that lowers Attack.
 Can be applied to any melee skill.
+
+Ward Stance
+3 0 0 1 0
+0 0 15
+0 & 0
+25 50 0 0
+0 0 0 0
+0 0 0 0
+2
+A low level buff move that boosts temporary
+defense and armor.
+
+Evasive Manuever
+3 0 0 1 0
+0 0 15
+0 & 0
+0 0 0 50
+0 0 0 0
+0 0 0 0
+2
+A low level buff move that lowers the users
+strike window.
+
+Yielding Hit
+3 0 2 1 0
+0 0 15
+0 & 0
+0 0 0 0
+25 50 0 0
+0 0 0 0
+2
+A low level debuff move that lowers the 
+targets temporary defense and armor.
 
 Skill Name
 general stats: type, base damage, target, repeat, isTrap
